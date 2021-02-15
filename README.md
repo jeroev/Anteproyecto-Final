@@ -34,13 +34,11 @@
     El inventario que se desarrollará es una aplicación web, esta no consumirá memoria del computador, es de fácil acceso, desde cualquier parte del mundo se podrá acceder, ya que lo único que se necesita para entrar a ella es internet, se tienen muchas ventajas como: una buena introducción para manejar el inventario, la disponibilidad técnica para problemas que se pueden tener, visualización y manejo sencillo del inventario, cambios en cada inventario, por ejemplo el tipo de categorías, colores, tipo de letra, idioma y otros más, todo esto es incluido en el inventario, lo que nos lleva a un valor agregado  sobre las otras plataformas.
 
 
-
-=======
 6. Objetivo General 
 
     Simplificar el manejo y uso del inventario de pequeñas empresas
->>>>>>> feature/objgeneral
-=======
+
+    
 7. Objetivo Específico 
 
     -Reducir costos de una empresa
