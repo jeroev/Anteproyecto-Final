@@ -11,10 +11,13 @@
 
 </br>
 
+
 2. Tema
 
     Se pretende crear y diseñar una página web de fácil acceso destinada a pequeñas empresas o personas independientes que trabajen con inventario reducido, la cual permitirá tener un manejo más seguro y detallado de todos sus productos.
 
+
+</br>
 
 3. Planeamento del problema 
 
@@ -27,11 +30,15 @@
   <img src="https://1.bp.blogspot.com/-fm-AfggChRk/YBnpRlIqeoI/AAAAAAAAAAM/W030jvSz2nc8Henp-XTQc4Cw8SA2ZAx9ACNcBGAsYHQ/w525-h640/Aproblema.PNG" />
 </p>
 
+</br>
+
 
 4. Justificación 
 
     El propósito de este diseño web es brindarles a los empresarios una plataforma segura, cómoda, clara, con facilidad de acceso y manejo de esta, con el fin de garantizar la comprensión de su inventario, lograr una óptima administración de su negocio y un análisis transparente del mismo, además de evitar todo tipo de problemáticas asociadas a una mala interpretación o gestión del inventario empresarial, las cuales fueron mencionadas en el planteamiento del problema. Para un estudio detallado del inventario ingresado por el usuario se tendrán opciones como: cantidad de productos que se encuentran en stock o agotados, productos vendidos y ganancia acumulada; además, se brindará al propietario una categorización sencilla de cada producto junto con la opción de ingresar un nuevo artículo cada que lo requiera. 
 
+
+</br>
 
 5. Estado del Arte 
 
@@ -40,11 +47,15 @@
     El inventario que se desarrollará es una aplicación web, esta no consumirá memoria del computador, es de fácil acceso, desde cualquier parte del mundo se podrá acceder, ya que lo único que se necesita para entrar a ella es internet, se tienen muchas ventajas como: una buena introducción para manejar el inventario, la disponibilidad técnica para problemas que se pueden tener, visualización y manejo sencillo del inventario, cambios en cada inventario, por ejemplo el tipo de categorías, colores, tipo de letra, idioma y otros más, todo esto es incluido en el inventario, lo que nos lleva a un valor agregado  sobre las otras plataformas.
 
 
+</br>
+
 6. Objetivo General 
 
     Simplificar el manejo y uso del inventario de pequeñas empresas
 
-    
+
+</br>
+
 7. Objetivo Específico 
 
     -Reducir costos de una empresa
@@ -58,6 +69,8 @@
     -Portabilidad de la información
 
 
+</br>
+
 8. Modelo de negocio 
 
 <p align = "center">Modelo Lean canvas</p>
@@ -66,6 +79,8 @@
   <img src="https://1.bp.blogspot.com/-EXoqfLf-NxU/YCdYQTxnLPI/AAAAAAAAAA8/4xMPwuecQeI64m0AgPi_ORBYKSmW2ma4wCNcBGAsYHQ/s16000/Modelo%2Bde%2Bnegocio.PNG" />
 </p>
 
+
+</br>
 
 9. Mockups de la aplicación
 
@@ -98,10 +113,14 @@
 
 
 
+</br>
+
 10. Descripción de la aplicación 
 
     La aplicación web de inventario, consta de sencillas características, lo cual ayudará a una visualización fácil y agradable de esta, cada categoría con la información que el usuario ingrese, será almacenada en una base de datos, lo cual podrá ser eliminada, modificada  o se podrá crear nuevas categorías que le permitirán a cada empresa llevar una manejo optimo de sus productos, para esto como ya se dijo, se necesitara de una base de datos lo cual permita tener accesos en tiempo real de solo el usuario, lo que mejorará la seguridad de toda la información de ventas y un desarrollo optimo tanto de backend como de frontend.
 
+
+</br>
 
 11. Bibliografía
 
