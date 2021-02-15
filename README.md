@@ -1,7 +1,8 @@
 ## Andres Felipe Noreña.
 ## Jerónimo Echeverri V.
 
-<p align ="center"Anteproyecto v1.0.0</p>
+<p align ="center">Anteproyecto v1.0.0</p>
+
 
 1. Introducción
 
