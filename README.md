@@ -1,1 +1,3 @@
-# Anteproyecto
+10. Descripción de la aplicación 
+
+    La aplicación web de inventario, consta de sencillas características, lo cual ayudará a una visualización fácil y agradable de esta, cada categoría con la información que el usuario ingrese, será almacenada en una base de datos, lo cual podrá ser eliminada, modificada  o se podrá crear nuevas categorías que le permitirán a cada empresa llevar una manejo optimo de sus productos, para esto como ya se dijo, se necesitara de una base de datos lo cual permita tener accesos en tiempo real de solo el usuario, lo que mejorará la seguridad de toda la información de ventas y un desarrollo optimo tanto de backend como de frontend.
