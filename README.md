@@ -54,8 +54,8 @@
     -Mejorar el servicio de atención de la empresa 
     
     -Portabilidad de la información
->>>>>>> feature/objespecifico
-=======
+
+
 8. Modelo de negocio 
 
 <p align = "center">Modelo Lean canvas</p>
@@ -64,8 +64,7 @@
   <img src="https://1.bp.blogspot.com/-EXoqfLf-NxU/YCdYQTxnLPI/AAAAAAAAAA8/4xMPwuecQeI64m0AgPi_ORBYKSmW2ma4wCNcBGAsYHQ/s16000/Modelo%2Bde%2Bnegocio.PNG" />
 </p>
 
->>>>>>> feature/modelonegocio
-=======
+
 9. Mockups de la aplicación
 
     Para empezar, la aplicación tendrá una parte que será el login, donde cada empresa creará su perfil, donde se utilizará un correo electrónico y una contraseña para ingresar a su inventario de tienda, también se tiene otra opción que si hay un olvido de contraseña, este le ayudará a restablecerla.  
@@ -95,16 +94,17 @@
 
     </p>
 
->>>>>>> feature/mockups
-=======
+
+
 10. Descripción de la aplicación 
 
     La aplicación web de inventario, consta de sencillas características, lo cual ayudará a una visualización fácil y agradable de esta, cada categoría con la información que el usuario ingrese, será almacenada en una base de datos, lo cual podrá ser eliminada, modificada  o se podrá crear nuevas categorías que le permitirán a cada empresa llevar una manejo optimo de sus productos, para esto como ya se dijo, se necesitara de una base de datos lo cual permita tener accesos en tiempo real de solo el usuario, lo que mejorará la seguridad de toda la información de ventas y un desarrollo optimo tanto de backend como de frontend.
->>>>>>> feature/description
-=======
-11. Bibliografía
+
+
+#11. Bibliografía
 
     -https://marvelapp.com/ (MarvelApp, s.f.)
 
     -https://www.capterra.es/ (Capterra, 2019)
->>>>>>> feature/bibliografia
+
+
